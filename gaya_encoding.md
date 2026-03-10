@@ -1,4 +1,4 @@
 # euc-kr
-'headers = {
+headers = {
     "Content-Type": "application/x-www-form-urlencoded; charset=EUC-KR"
-}'
+}
