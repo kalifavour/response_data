@@ -22,3 +22,5 @@
 |                         | agencyHp2           |           |              |                  |                     |
 |                         | agencyHp3           |           |              |                  |                     |
 |                         | agreeYn             | Y         | Y            | Y                | Y                   |
+
+- certSeq, certNoChk는 Time(Booking) 단계의 response에서 볼수있다. json형태로 들어옴.
