@@ -5,7 +5,7 @@
 |               | mem=nmem (비회원) , mem=mem(회원)                                                             |   
 |               | mb_id=010xxxxyyyy # 회원번호(회원), 전화번호(비회원)                                                  |   
 |               | mb_pw=xxxx # 네자리숫자                                                                       |   
-|               | ![login](images/login_button.jpg)x=28                                                                                     |   
+|               | x=28                                                                                     |   
 |               | y=23                                                                                     |   
 | 1. Resv (GET) | ( X )                                                                                    |   
 | 2. Cal_Click  | Day_Choice_dtn=20240530                                                                  |   
@@ -31,5 +31,5 @@
 |               | Course_Gubun=M                                                                           |   
 |               | Lock_Serve_Sec=2024-05-17 20:06:01.671504# Lock_Serve_Sec=2024-05-17+20%3A06%3A01.671504 |   
 |               | Server_to_sec=                                                                           |   
-|               | ![login](images/reserve_button.png)imageField2.x=21                                                                         |   
+|               | imageField2.x=21                                                                         |   
 |               | imageField2.y=9                                                                          |   
